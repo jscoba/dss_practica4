@@ -1,0 +1,7 @@
+{
+  "name": "dss_client",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
